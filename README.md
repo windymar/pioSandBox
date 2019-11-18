@@ -1,4 +1,6 @@
 # pioSandBox
 
-To build firmware.efl:	platformio run
-To build unit tests:	platformio test -e ut
+<p>To build firmware.efl<br>
+*platformio run*</p>
+<p>To build unit tests<br>
+*platformio test -e ut*</p>
